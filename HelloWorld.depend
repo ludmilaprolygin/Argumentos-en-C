@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679010791 source:c:\users\mlpro\onedrive\documentos\universidad\computación\cursado actual\organización de computadoras\código\helloworld\main.c
+	<stdio.h>
+	<stdlib.h>
+
